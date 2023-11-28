@@ -1,0 +1,12 @@
+body {
+    background-color: mistyrose;
+  }
+  p {
+    color: black;
+  }
+.card {
+    background-color: seashell;
+}
+.container {
+  max-width: 75%;
+}
